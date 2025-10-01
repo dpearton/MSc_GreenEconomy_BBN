@@ -1,0 +1,1 @@
+Code and data for the BBNet model for the project "Using Bayesian belief network models to assess potential conservation interventions in the iSimangaliso Wetland Park." submitted to the MSc Green Ecology course at Bournemouth University.
